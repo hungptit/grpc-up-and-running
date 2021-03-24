@@ -23,8 +23,10 @@ JVM:          15.0.2 (Oracle Corporation 15.0.2+7)
 OS:           Mac OS X 10.15.7 x86_64
 ```
 
-# How to compile #
+# How to compile examples #
+
+## Chapter 2 ##
 
 ``` shell
-
+./gradlew :ch02:productinfo:java:server:build
 ```
